@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/YaelCano](https://github.com/YaelCano)
 
-- 📫 How to reach me **marlenemaya65@gamil.com**
+- 📫 How to reach me **springtrapgamer12@gmail.com**
 
 - 📄 Know about my experiences [It has been a good and entertaining experience which ventured me into the world of programming.](It has been a good and entertaining experience which ventured me into the world of programming.)
 
