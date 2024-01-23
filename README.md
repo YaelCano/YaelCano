@@ -29,9 +29,7 @@
 
 <!--header-->
 <table>
-  <tr><th>⚠️ Disclaimer</th><td><p>This plugin is not affiliated, associated, authorized, endorsed by, or in any way officially connected with <a href="https://anilist.co">AniList</a>.
-All product and company names are trademarks™ or registered® trademarks of their respective holders.</p>
-</td></tr>
+
   <tr>
     <th rowspan="3">Supported features<br><sub><a href="metadata.yml">→ Full specification</a></sub></th>
     <td><a href="/source/templates/classic/README.md"><code>📗 Classic template</code></a></td>
